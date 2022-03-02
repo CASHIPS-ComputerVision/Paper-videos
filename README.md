@@ -1,5 +1,5 @@
 # Paper-videos： Object-based Reliable Visual Navigation for Mobile Robot
-## Authors: Fan Wang, Chaofan Zhang, Wen Zhang, Cuiyun Fang, Yingwei Xia and Yong Liu
+## Authors: Fan Wang, Chaofan Zhang, Wen Zhang, Cuiyun Fang, Yingwei Xia, Yong Liu and Hao Dong
 
 ### Abstract 
 Visual navigation is of vital importance for autonomous mobile robots.
